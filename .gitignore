@@ -1,0 +1,13 @@
+*.*-bak
+_autosave-*
+*.bak
+gerber/
+*.zip
+
+*-backups/
+
+fp-info-cache
+
+*-brd.svg
+
+
